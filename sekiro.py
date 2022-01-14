@@ -1,5 +1,7 @@
 import datetime
 
-x = datetime.datetime.now()
-print(x)
+timestamp = datetime.datetime.now()
+print(timestamp)
 print(10)
+
+
